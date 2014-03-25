@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1395772412 source:c:\users\gabz\documents\github\examen2prograiii-gacd\arboltrinario.cpp
+	"arboltrinario.h"
+	<iostream>
+	<string>
+
+1395770611 c:\users\gabz\documents\github\examen2prograiii-gacd\arboltrinario.h
+	"nodotrinario.h"
+
+1395771181 c:\users\gabz\documents\github\examen2prograiii-gacd\nodotrinario.h
+
+1395771894 source:c:\users\gabz\documents\github\examen2prograiii-gacd\main.cpp
+	<iostream>
+
+1395771863 source:c:\users\gabz\documents\github\examen2prograiii-gacd\nodotrinario.cpp
+	"nodotrinario.h"
+
